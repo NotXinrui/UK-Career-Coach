@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="UK Career Coach: audit your application, write it yourself" width="100%">
+</p>
+
 # UK Career Coach
 
 <-- Use AI to beat the AI world! -->
