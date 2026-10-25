@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 600" style="enable-background:new 0 0 1200 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#080D1A;}
+	.st1{fill:none;stroke:#38BDF8;stroke-width:3;stroke-linecap:round;}
+	.st2{fill:#5EEAD4;}
+	.st3{fill:#38BDF8;}
+	.st4{fill:#E6EDF7;}
+	.st5{font-family:'ArialMT';}
+	.st6{font-size:32px;}
+	.st7{font-family:'Menlo-Bold';}
+	.st8{font-size:26px;}
+	.st9{fill:#8DA2C0;}
+	.st10{font-size:14px;}
+	.st11{fill:#C5D3E8;}
+	.st12{font-size:13px;}
+	.st13{fill:#A78BFA;}
+	.st14{fill:#FBBF24;}
+	.st15{fill:#64748B;}
+	.st16{font-family:'Menlo-Regular';}
+	.st17{fill:#0D1426;stroke:#26324D;}
+	.st18{fill:#FF5F57;}
+	.st19{fill:#FEBC2E;}
+	.st20{fill:#28C840;}
+	.st21{fill:#161F36;}
+	.st22{font-size:11px;}
+	.st23{fill:#5EEAD4;fill-opacity:7.000000e-02;stroke:#5EEAD4;stroke-opacity:0.7;}
+	.st24{fill:none;stroke:#64748B;stroke-width:1.2;}
+	.st25{fill:none;}
+	.st26{fill:none;stroke:#64748B;stroke-width:1.08;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.88;}
+	.st27{fill:none;stroke:#64748B;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;}
+	.st28{fill:#94A3B8;fill-opacity:0.1;stroke:#94A3B8;stroke-opacity:0.7;}
+	.st29{font-family:'Arial-BoldMT';}
+	.st30{font-size:12px;}
+	.st31{fill:#A78BFA;fill-opacity:8.000000e-02;stroke:#A78BFA;stroke-opacity:0.75;}
+	.st32{fill:#A78BFA;fill-opacity:8.000000e-02;stroke:#A78BFA;stroke-opacity:0.75;stroke-dasharray:4,3;}
+	.st33{font-family:'AdobeSongStd-Light-GBpc-EUC-H';}
+</style>
+<path class="st0" d="M20,0h1160c11,0,20,9,20,20v560c0,11-9,20-20,20H20c-11,0-20-9-20-20V20C0,9,9,0,20,0z"/>
+<g>
+	<path class="st1" d="M84,88l-18,30 M84,88l18,30 M66,118h36"/>
+</g>
+<circle class="st2" cx="84" cy="88" r="8"/>
+<circle class="st3" cx="66" cy="118" r="8"/>
+<circle class="st3" cx="102" cy="118" r="8"/>
+<text transform="matrix(1 0 0 1 124 116)" class="st4 st5 st6">UK Career Coach</text>
+<text transform="matrix(1 0 0 1 60 206)" class="st4 st7 st8">Beat their algorithms.</text>
+<text transform="matrix(1 0 0 1 60 244)" class="st2 st7 st8">Keep your voice.</text>
+<g>
+	<text transform="matrix(1 0 0 1 60 296)" class="st9 st5 st10">Recruiters use AI to screen you out. </text>
+	<text transform="matrix(1 0 0 1 60 320)" class="st9 st5 st10">Use UK Career Coach to engineer your way in </text>
+	<text transform="matrix(1 0 0 1 60 344)" class="st9 st5 st10">with hard evidence and zero generic fluff.</text>
+</g>
+<g>
+	<circle class="st2" cx="66" cy="440" r="5"/>
+	<text transform="matrix(1 0 0 1 80 445)" class="st11 st5 st12">Evidence-led</text>
+	<circle class="st3" cx="190" cy="440" r="5"/>
+	<text transform="matrix(1 0 0 1 204 445)" class="st11 st5 st12">Private</text>
+	<circle class="st13" cx="278" cy="440" r="5"/>
+	<text transform="matrix(1 0 0 1 292 445)" class="st11 st5 st12">Portable</text>
+	<circle class="st14" cx="376" cy="440" r="5"/>
+	<text transform="matrix(1 0 0 1 390 445)" class="st11 st5 st12">Open source</text>
+</g>
+<text transform="matrix(1 0 0 1 60 540)" class="st15 st16 st12">v0.1.0</text>
+<path class="st17" d="M534,50h612c7.7,0,14,6.3,14,14v472c0,7.7-6.3,14-14,14H534c-7.7,0-14-6.3-14-14V64C520,56.3,526.3,50,534,50z
+	"/>
+<circle class="st18" cx="546" cy="76" r="5.5"/>
+<circle class="st19" cx="566" cy="76" r="5.5"/>
+<circle class="st20" cx="586" cy="76" r="5.5"/>
+<path class="st21" d="M692,64h336c6.6,0,12,5.4,12,12l0,0c0,6.6-5.4,12-12,12H692c-6.6,0-12-5.4-12-12l0,0C680,69.4,685.4,64,692,64
+	z"/>
+<text transform="matrix(1 0 0 1 810.3308 80)" class="st9 st16 st22">uk-career-coach</text>
+<g>
+	<text transform="matrix(1 0 0 1 544 130)" class="st15 st5 st22">Inside the folder</text>
+	<text transform="matrix(1 0 0 1 813.5962 130)" class="st15 st5 st22">Package</text>
+	<text transform="matrix(1 0 0 1 936 130)" class="st15 st5 st22">Install in</text>
+</g>
+<g>
+	<path class="st23" d="M552,146h174c4.4,0,8,3.6,8,8v36c0,4.4-3.6,8-8,8H552c-4.4,0-8-3.6-8-8v-36C544,149.6,547.6,146,552,146z"/>
+	<path class="st23" d="M552,212h174c4.4,0,8,3.6,8,8v36c0,4.4-3.6,8-8,8H552c-4.4,0-8-3.6-8-8v-36C544,215.6,547.6,212,552,212z"/>
+	<path class="st23" d="M552,278h174c4.4,0,8,3.6,8,8v36c0,4.4-3.6,8-8,8H552c-4.4,0-8-3.6-8-8v-36C544,281.6,547.6,278,552,278z"/>
+	<path class="st23" d="M552,344h174c4.4,0,8,3.6,8,8v36c0,4.4-3.6,8-8,8H552c-4.4,0-8-3.6-8-8v-36C544,347.6,547.6,344,552,344z"/>
+	<path class="st23" d="M552,410h174c4.4,0,8,3.6,8,8v36c0,4.4-3.6,8-8,8H552c-4.4,0-8-3.6-8-8v-36C544,413.6,547.6,410,552,410z"/>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 556 166)" class="st4 st7 st22">SKILL.md</text>
+	<text transform="matrix(1 0 0 1 556 232)" class="st4 st7 st22">profile-template.md</text>
+	<text transform="matrix(1 0 0 1 556 298)" class="st4 st7 st22">cv-tracks-template.md</text>
+	<text transform="matrix(1 0 0 1 556 364)" class="st4 st7 st22">cover-letter-structure.md</text>
+	<text transform="matrix(1 0 0 1 556 430)" class="st4 st7 st22">keyword-library.md</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 556 184)" class="st9 st5 st22">Rules and workflows</text>
+	<text transform="matrix(1 0 0 1 556 250)" class="st9 st5 st22">Your facts; keep private</text>
+	<text transform="matrix(1 0 0 1 556 316)" class="st9 st5 st22">Defines your CV versions</text>
+	<text transform="matrix(1 0 0 1 556 382)" class="st9 st5 st22">Outline and prompts only</text>
+	<text transform="matrix(1 0 0 1 556 448)" class="st9 st5 st22">Keywords and ATS rules</text>
+</g>
+<g>
+	<path class="st24" d="M734,172h23 M734,238h23 M734,304h23 M734,370h23 M734,436h23 M757,172v264"/>
+	<path class="st25" d=""/>
+	<path class="st26" d="M773.7,301.1l4.3,2.9l-4.3,2.9"/>
+	<path marker-end="url(#a)" class="st27" d="M778,304"/>
+	<path class="st24" d="M890,304h23 M913,199v210"/>
+	<path class="st25" d=""/>
+	<path class="st26" d="M929.7,196.1l4.3,2.9l-4.3,2.9"/>
+	<path marker-end="url(#a)" class="st27" d="M934,199"/>
+	<path class="st25" d=""/>
+	<path class="st26" d="M929.7,266.1l4.3,2.9l-4.3,2.9"/>
+	<path marker-end="url(#a)" class="st27" d="M934,269"/>
+	<path class="st25" d=""/>
+	<path class="st26" d="M929.7,336.1l4.3,2.9l-4.3,2.9"/>
+	<path marker-end="url(#a)" class="st27" d="M934,339"/>
+	<path class="st25" d=""/>
+	<path class="st26" d="M929.7,406.1l4.3,2.9l-4.3,2.9"/>
+	<path marker-end="url(#a)" class="st27" d="M934,409"/>
+</g>
+<path class="st28" d="M788,276h94c4.4,0,8,3.6,8,8v40c0,4.4-3.6,8-8,8h-94c-4.4,0-8-3.6-8-8v-40C780,279.6,783.6,276,788,276z"/>
+<text transform="matrix(1 0 0 1 804.3262 299)" class="st4 st29 st30">Skill folder</text>
+<text transform="matrix(1 0 0 1 808.405 317)" class="st9 st5 st22">zip for web</text>
+<g>
+	<path class="st31" d="M944,173h174c4.4,0,8,3.6,8,8v36c0,4.4-3.6,8-8,8H944c-4.4,0-8-3.6-8-8v-36C936,176.6,939.6,173,944,173z"/>
+	<path class="st31" d="M944,243h174c4.4,0,8,3.6,8,8v36c0,4.4-3.6,8-8,8H944c-4.4,0-8-3.6-8-8v-36C936,246.6,939.6,243,944,243z"/>
+	<path class="st31" d="M944,313h174c4.4,0,8,3.6,8,8v36c0,4.4-3.6,8-8,8H944c-4.4,0-8-3.6-8-8v-36C936,316.6,939.6,313,944,313z"/>
+	<path class="st32" d="M944,383h174c4.4,0,8,3.6,8,8v36c0,4.4-3.6,8-8,8H944c-4.4,0-8-3.6-8-8v-36C936,386.6,939.6,383,944,383z"/>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 948 193)" class="st4 st29 st30">Claude.ai</text>
+	<text transform="matrix(1 0 0 1 948 263)" class="st4 st29 st30">Claude Code</text>
+	<text transform="matrix(1 0 0 1 948 333)" class="st4 st29 st30">Gemini CLI</text>
+	<text transform="matrix(1 0 0 1 948 403)" class="st4 st29 st30">Gemini app</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 948 211)" class="st9 st5 st22">Upload zip in Settings</text>
+	<text transform="matrix(1 0 0 1 948 281)" class="st9 st5 st22">Copy to ~/.claude/skills/</text>
+	<text transform="matrix(1 0 0 1 948 351)" class="st9 st5 st22">Copy to .gemini/skills/</text>
+	<text transform="matrix(1 0 0 1 948 421)" class="st9 st5 st22">No skills; paste in a Gem</text>
+</g>
+<text transform="matrix(1 0 0 1 544 520)" class="st15 st5 st22">Dashed outline = workaround, not native support</text>
+<text transform="matrix(1 0 0 1 305 337)" class="st33 st30">滚滚长江东逝水</text>
+</svg>
