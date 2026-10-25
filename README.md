@@ -7,6 +7,8 @@
 <-- Use AI to beat the AI world! -->
 An open skill for UK job applications. It evaluates a job description against your profile, maps keyword gaps, recommends which CV version to use, and proofreads. 
 
+Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/gexinrui/
+
 **Version** v0.1.0 · **Language** English (British) · **Works with** Claude, Gemini CLI
 
 ## What it does
