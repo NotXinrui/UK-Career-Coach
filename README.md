@@ -27,7 +27,7 @@ Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/gexinrui/
 1. **AI audits; you author.** Facts, claims and final wording stay with you.
 2. **Built not to invent.** It is instructed never to make up achievements, tools, titles, numbers or dates, and to report gaps instead. This is an instruction, not a guarantee, so check every line.
 3. **Blockers first.** Citizenship, clearance, seniority and pay mismatches are flagged before anything else.
-4. **You control your files.** Your profile is plain Markdown that you keep and edit. What you paste or upload is sent to the AI provider you run the skill with, so see [Privacy](#privacy-and-responsibility).
+4. **You control your files.** Your profile is plain Markdown that you keep and edit. What you paste or upload is sent to the AI provider you run the skill with.
 
 ## Quick start
 
@@ -101,7 +101,3 @@ Do not commit your profile, CV or employer-confidential material to a public rep
 ## Feedback
 
 If you use it, open an issue describing what worked and what did not, including failures. Real use is more informative than stars.
-
-## Licence
-
-See [LICENSE](LICENSE).
