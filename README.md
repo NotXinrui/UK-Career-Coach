@@ -37,7 +37,7 @@ Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/gexinrui/
 
 ## Install
 
-Download `uk-career-coach-v0.1.0.zip` from the [latest release](../../releases/latest). The zip contains only the skills folder, which Claude.ai expects.
+Download `uk-career-coach.zip`. The zip contains only the skills folder, which Claude.ai expects.
 
 | Where | How |
 |---|---|
